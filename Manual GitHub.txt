@@ -1,0 +1,46 @@
+ // crear carpeta 
+mkdir Clase20190925
+
+// ingresamos a la carpeta
+cd Clase20190925
+
+// Shift + botón derecho del mouse
+seleccionamos Git Bash Here
+
+// una vez cargada la consola
+// definir mi repositorio local
+git init
+// enlazar con el repositorio remoto
+git remote add origin https://github.com/niag91rbc/Clase-25-09-2019.git
+-------------------------------------------------
+ …or create a new repository on the command line
+echo "# vccx" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/niag91rbc/vccx.git
+git push -u origin master
+
+
+1) En la carpeta boton derecho -> Git Bash Here. 
+
+2) git init 
+
+3) git remote add origin https://github.com/niag91rbc/Clase-25-09-2019.git 
+
+4) (Solo en windows 10) 
+para ver los archivos ocultos Vista->habilitar elementos ocultos 
+
+5) crear carpeta web001 // o por linea de comandos : mkdir web 
+
+6) 
+
+
+
+
+--------------------------------------------------------------
+// una vez cargada la consola
+// definir mi repositorio local
+git init
+// enlazar con el repositorio remoto
+git remote add origin https://github.com/tata-duoc2019/Clase20190925.git
